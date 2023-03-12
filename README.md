@@ -1,7 +1,6 @@
-[![MasterHead](https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1)
+[![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)
 <h1 align="center">Hi 👋, I'm Harsheed Rabhadia</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsheedrabhadia&label=Profile%20views&color=0e75b6&style=flat" alt="harsheedrabhadia" /> </p>
 
