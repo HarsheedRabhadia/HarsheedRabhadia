@@ -1,16 +1,14 @@
-<div align="center">
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Harsheed%2C+a+tech+goblin+and+harry+potter+wannabe+%E2%9C%A9" width="70%" />
-<br><br>
-<pre>
-    💼 BCA • Front-end dev • Learning AI Agents & LLMs
-    💻 React
-    🎮 Music • Games • Anime • Code • Art
-    🐾 Football 
-</pre>
-<br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br><br><br>
-    
-[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/harsheed-rabhadia-06a598234/)
-</div>
+### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+
+There is a land where I share toys and have a break.
+
+I'm currently learning building AI Agents.
+
+<details>
+<summary>⚡️ More about my coding life</summary>
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarsheedRabhadia&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Harsheed's github stats](https://github-readme-stats.vercel.app/api?username=HarsheedRabhadia&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+</details>
